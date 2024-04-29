@@ -1,8 +1,8 @@
 import "./index.css";
+import "bootstrap/dist/css/bootstrap.css";
 import Nav from "./Nav";
 // import Home from "./Componets/Home";
 import Sidebar from "./Components/Sidebar";
-import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./Footer";
 import { ContextProvider } from "./ContextProvider";
 function App() {
